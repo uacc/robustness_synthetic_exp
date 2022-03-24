@@ -3,7 +3,7 @@
 ## Description
 In this project, we verfies our theoretical results in our paper "A Manifold View of Adversarial Risk".
 We testify our results on the following synthetic dataset.
-![ALt text](./figs/synthetic_dataset.jpg?raw=ture "Datasets")
+![ALt text](./figs/synthetic_dataset.png?raw=ture "Datasets")
 To verify our upper bound, we compare the adversarial risk and its decomposition on different classifiers with various epsilon value. Here is an example of comparing general adversarial risk and decomposition upper bound on standard classifier.
 
 ## How to run

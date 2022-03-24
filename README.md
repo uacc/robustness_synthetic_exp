@@ -5,7 +5,9 @@ In this project, we verfies our theoretical results in our paper "A Manifold Vie
 We testify our results on the following synthetic dataset.
 ![ALt text](./figs/synthetic_dataset.png?raw=true "Datasets")
 To verify our upper bound, we compare the adversarial risk and its decomposition on different classifiers with various epsilon value. Here is an example of comparing general adversarial risk and decomposition upper bound on standard classifier.
-![alt-text-1](./figs/f_s_2d.png?raw=true "2d single decision boundary")![alt-text-2](./figs/f_d_2d.png?raw=true "2d double decision boundary")![alt-text-3](./figs/f_s_3d.png?raw=true "3d single decision boundary")![alt-text-4](./figs/f_d_3d.png?raw=true "3d double decision boundary")
+|![alt-text-1](./figs/f_s_2d.png?raw=true "2d single decision boundary")|![alt-text-2](./figs/f_d_2d.png?raw=true "2d double decision boundary")|![alt-text-3](./figs/f_s_3d.png?raw=true "3d single decision boundary")|![alt-text-4](./figs/f_d_3d.png?raw=true "3d double decision boundary")|
+|:--:|:--:|:--:|:--:|
+| * 2d single decision boundary * | * 2d double decision boundary * | * 3d single decision boundary * | * 3d double decision boundary * |
 ## How to run
 To repeat our empirical results in the paper, run the following code
 ```python 
